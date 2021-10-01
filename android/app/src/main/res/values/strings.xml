@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connecting">Connecting</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="incomplete_proxy_settings">Incomplete proxy settings</string>
+    <string name="unknown_package_names">Unknown package names</string>
+</resources>

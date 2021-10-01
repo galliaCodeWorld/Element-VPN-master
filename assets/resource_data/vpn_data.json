@@ -1,0 +1,92 @@
+[
+  {
+    "identifier": "United States",
+    "tag": "NY 1 DC",
+    "url": "206.189.232.80",
+    "username": "vpnuser",
+    "password": "6B35wN6PUib7kKYb",
+    "shared_key": "6RPhWsUt7mMAgbtcRxV3",
+    "asset_uri": "assets/resource_data/openvpn/United States-NY 1 DC.ovpn"
+  },
+  {
+    "identifier": "United States",
+    "tag": "NY 2 DC",
+    "url": "134.209.32.188",
+    "username": "vpnuser",
+    "password": "ZSr4HTCr7RGFPuCu",
+    "shared_key": "5JJbyeUHqjD2B2ZwL5uw",
+    "asset_uri": "assets/resource_data/openvpn/United States-NY 2 DC.ovpn"
+  },
+  {
+    "identifier": "Netherlands",
+    "tag": "AMS",
+    "url": "134.209.84.154",
+    "username": "vpnuser",
+    "password": "MB92PJZqC5vmzYBU",
+    "shared_key": "sZuUdW5LEYXXKKzHUeiD",
+    "asset_uri": "assets/resource_data/openvpn/Netherlands-AMS.ovpn"
+  },
+  {
+    "identifier": "United States",
+    "tag": "SF DC 1",
+    "url": "138.68.7.176",
+    "username": "vpnuser",
+    "password": "kpAnYLnmH9bxfjxb",
+    "shared_key": "RUd6asESo9o6Z4xV6rZH",
+    "asset_uri": "assets/resource_data/openvpn/United States-SF DC 1.ovpn"
+  },
+  {
+    "identifier": "United States",
+    "tag": "SF DC 2",
+    "url": "164.90.152.173",
+    "username": "vpnuser",
+    "password": "4j6N39cnNk2pAnVX",
+    "shared_key": "b5pD7vDxGEzymBeYpNBr",
+    "asset_uri": "assets/resource_data/openvpn/United States-SF DC 2.ovpn"
+  },
+  {
+    "identifier": "Singapore",
+    "tag": "SG",
+    "url": "188.166.181.194",
+    "username": "vpnuser",
+    "password": "xZDstK7VgxGjjENJ",
+    "shared_key": "qy2UHj5hA54e3acYZWii",
+    "asset_uri": "assets/resource_data/openvpn/Singapore-SG.ovpn"
+  },
+  {
+    "identifier": "England",
+    "tag": "LONDON",
+    "url": "161.35.170.107",
+    "username": "vpnuser",
+    "password": "JACnDsCMRz6whbAr",
+    "shared_key": "ohPMEP8q8sHquVxkBCLy",
+    "asset_uri": "assets/resource_data/openvpn/England-LONDON.ovpn"
+  },
+  {
+    "identifier": "Germany",
+    "tag": "FR",
+    "url": "167.172.180.32",
+    "username": "vpnuser",
+    "password": "kaRaTAdaxwRqA7NR",
+    "shared_key": "YygxX7VtZT9jnX3wsX6T",
+    "asset_uri": "assets/resource_data/openvpn/Germany-FR.ovpn"
+  },
+  {
+    "identifier": "Canada",
+    "tag": "TORONTO",
+    "url": "165.22.227.146",
+    "username": "vpnuser",
+    "password": "7KLvEjVXFB7EMUJG",
+    "shared_key": "oJohmVpzGpY7Ru8rUeNh",
+    "asset_uri": "assets/resource_data/openvpn/Canada-TORONTO.ovpn"
+  },
+  {
+    "identifier": "India",
+    "tag": "BANGOLOR (IN)",
+    "url": "139.59.57.75",
+    "username": "vpnuser",
+    "password": "ySLUveRTc9b8cyTz",
+    "shared_key": "yfsv4DnFJ66v8osSB2Nu",
+    "asset_uri": "assets/resource_data/openvpn/India-Bangalor (IN).ovpn"
+  }
+]
